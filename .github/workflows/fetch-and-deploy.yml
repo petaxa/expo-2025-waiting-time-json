@@ -43,5 +43,5 @@ jobs:
       - uses: actions/configure-pages@v4
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: data
+          path: docs
       - uses: actions/deploy-pages@v4
