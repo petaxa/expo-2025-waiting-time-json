@@ -26,8 +26,8 @@ jobs:
           git config --global user.name  "actions-bot"
           git config --global user.email "actions@users.noreply.github.com"
 
-          if git status --porcelain docs | grep -q '^[AMDR]'; then
-            git add docs
+          if [ -n "$(git status --porcelain docs)" ]; then
+            git add -A docs
             git commit -m "update JSONs $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
             git push
           else
