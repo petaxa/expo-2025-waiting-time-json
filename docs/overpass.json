@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.8 b1080abd",
   "osm3s": {
-    "timestamp_osm_base": "2025-06-23T12:54:01Z",
-    "timestamp_areas_base": "2025-06-23T09:54:26Z",
+    "timestamp_osm_base": "2025-06-23T13:39:00Z",
+    "timestamp_areas_base": "2025-06-23T10:40:32Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2043,7 +2043,8 @@
     "name:ja": "大阪ヘルスケアパビリオン",
     "ref": "E02",
     "reservation": "yes",
-    "website": "https://www.expo2025.or.jp/domestic-pv/osaka-pv/"
+    "website": "https://www.expo2025.or.jp/domestic-pv/osaka-pv/",
+    "wikimedia_commons": "File:Expo 2025 OSAKA Healthcare Pavillion.jpg"
   }
 },
 {
