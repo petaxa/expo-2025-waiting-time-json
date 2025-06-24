@@ -13,7 +13,7 @@
       "waitTime": "情報なし"
     },
     {
-      "elapsedTime": "01分前",
+      "elapsedTime": "03分前",
       "osmId": "way/1381316142",
       "postedAt": "Tue Jun 24 2025 09:22:48 GMT+0900 (日本標準時)",
       "waitTime": "停止"
@@ -247,10 +247,10 @@
       "waitTime": "情報なし"
     },
     {
-      "elapsedTime": "情報なし",
+      "elapsedTime": "00分前",
       "osmId": "way/1381316124",
-      "postedAt": "",
-      "waitTime": "情報なし"
+      "postedAt": "Tue Jun 24 2025 09:25:04 GMT+0900 (日本標準時)",
+      "waitTime": "0時間10分以下"
     },
     {
       "elapsedTime": "情報なし",
