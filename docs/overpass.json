@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.8 b1080abd",
   "osm3s": {
-    "timestamp_osm_base": "2025-06-23T14:49:55Z",
-    "timestamp_areas_base": "2025-06-23T09:54:26Z",
+    "timestamp_osm_base": "2025-06-24T01:16:14Z",
+    "timestamp_areas_base": "2025-06-23T22:54:46Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2903,7 +2903,8 @@
     "name:ja-Hira": "てっくわーるど",
     "ref": "W02",
     "reservation": "yes",
-    "website": "https://www.expo2025.or.jp/domestic-pv/tamayama/"
+    "website": "https://www.expo2025.or.jp/domestic-pv/tamayama/",
+    "wikimedia_commons": "File:Expo2025 TechWorld（TAIWAN）.jpg"
   }
 },
 {
