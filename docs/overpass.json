@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.8 b1080abd",
   "osm3s": {
-    "timestamp_osm_base": "2025-06-27T00:41:47Z",
-    "timestamp_areas_base": "2025-06-26T22:32:13Z",
+    "timestamp_osm_base": "2025-06-28T00:39:12Z",
+    "timestamp_areas_base": "2025-06-27T22:36:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -366,11 +366,11 @@
 {
   "type": "node",
   "id": 12802712152,
-  "lat": 34.6468286,
-  "lon": 135.3864252,
+  "lat": 34.6467270,
+  "lon": 135.3863286,
   "tags": {
     "amenity": "theatre",
-    "check_date": "2025-05-28",
+    "check_date": "2025-06-27",
     "name": "ギャラリー EAST",
     "ref": "E13"
   }
