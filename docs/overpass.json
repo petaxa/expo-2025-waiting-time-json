@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.8 b1080abd",
   "osm3s": {
-    "timestamp_osm_base": "2025-06-28T00:39:12Z",
-    "timestamp_areas_base": "2025-06-27T22:36:01Z",
+    "timestamp_osm_base": "2025-06-29T00:47:28Z",
+    "timestamp_areas_base": "2025-06-28T22:31:29Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1421,6 +1421,7 @@
   "tags": {
     "alt_name": "中国館",
     "amenity": "exhibition_centre",
+    "architect": "崔愷",
     "country": "CN",
     "mapillary": "1162300578918482",
     "name": "中国パビリオン",
@@ -2503,6 +2504,7 @@
   "tags": {
     "alt_name": "日本パビリオン",
     "amenity": "exhibition_centre",
+    "architect": "佐藤オオキ",
     "check_date": "2025-05-28",
     "country": "JP",
     "mapillary": "1483945869240432",
