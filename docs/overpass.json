@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.8 b1080abd",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-06T00:46:27Z",
-    "timestamp_areas_base": "2025-07-05T21:52:13Z",
+    "timestamp_osm_base": "2025-07-07T00:44:40Z",
+    "timestamp_areas_base": "2025-07-06T21:15:24Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2419,12 +2419,14 @@
   ],
   "tags": {
     "amenity": "exhibition_centre",
+    "check_date": "2025-07-06",
     "mapillary": "1252261159653907",
     "name": "Dialogue Theater ‐いのちのあかし‐",
     "name:en": "Dialogue Theater ‐ sign of life ‐",
     "name:ja": "Dialogue Theater ‐いのちのあかし‐",
+    "opening_hours": "09:00-21:00",
     "ref": "X08",
-    "reservation": "yes",
+    "reservation": "recommended",
     "website": "https://expo2025-inochinoakashi.com/"
   }
 },
@@ -3008,10 +3010,11 @@
   ],
   "tags": {
     "amenity": "exhibition_centre",
+    "check_date": "2025-07-06",
     "mapillary": "3134127646741333",
     "name": "PASONA NATUREVERSE",
     "ref": "W09",
-    "reservation": "yes",
+    "reservation": "recommended",
     "website": "https://www.expo2025.or.jp/domestic-pv/pasona/",
     "wikimedia_commons": "File:大阪・関西万博 PASONAパビリオン.jpg"
   }
