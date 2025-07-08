@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.8 b1080abd",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-07T00:44:40Z",
-    "timestamp_areas_base": "2025-07-06T21:15:24Z",
+    "timestamp_osm_base": "2025-07-08T00:41:38Z",
+    "timestamp_areas_base": "2025-07-07T22:51:26Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -68,6 +68,7 @@
     "alt_name": "欧州連合館",
     "amenity": "exhibition_centre",
     "check_date": "2025-04-20",
+    "country": "AT;BE;BG;CY;CZ;DE;DK;EE;ES;FI;FR;GR;HR;HU;IE;IT;LT;LU;LV;MT;NL;PL;PT;RO;SE;SI;SK",
     "loc_name": "EU館",
     "name": "欧州連合（EU）パビリオン",
     "name:en": "The European Union Pavilion",
