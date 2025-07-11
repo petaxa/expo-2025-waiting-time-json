@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.8 b1080abd",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-10T00:41:31Z",
-    "timestamp_areas_base": "2025-07-09T22:16:31Z",
+    "timestamp_osm_base": "2025-07-11T00:42:14Z",
+    "timestamp_areas_base": "2025-07-10T22:28:07Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -809,7 +809,8 @@
     "name:ja": "NTTパビリオン",
     "ref": "E03",
     "reservation": "yes",
-    "website": "https://www.expo2025.or.jp/domestic-pv/ntt/"
+    "website": "https://www.expo2025.or.jp/domestic-pv/ntt/",
+    "wikimedia_commons": "File:Expo 2025 NTT Pavilion 01.JPG"
   }
 },
 {
@@ -892,7 +893,8 @@
     "ref": "C15",
     "reservation": "recommended",
     "short_name": "豪州館",
-    "website": "https://www.expo2025.or.jp/official-participant/australia/"
+    "website": "https://www.expo2025.or.jp/official-participant/australia/",
+    "wikimedia_commons": "File:大阪・関西万博 オーストラリアパビリオン.jpg"
   }
 },
 {
@@ -920,7 +922,8 @@
     "ref": "C14",
     "reservation": "no",
     "short_name": "サウジアラビア館",
-    "website": "https://www.expo2025.or.jp/official-participant/saudi-arabia__trashed/"
+    "website": "https://www.expo2025.or.jp/official-participant/saudi-arabia__trashed/",
+    "wikimedia_commons": "File:大阪・関西万博 サウジアラビアパビリオン.jpg"
   }
 },
 {
@@ -948,7 +951,7 @@
     "ref": "C02",
     "reservation": "no",
     "website": "https://www.expo2025.or.jp/official-participant/luxembourg/",
-    "wikimedia_commons": "File:ルクセンブルク パビリオン.jpg"
+    "wikimedia_commons": "File:大阪・関西万博 ルクセンブルクパビリオン.jpg"
   }
 },
 {
@@ -1370,7 +1373,8 @@
     "name:ja": "トルクメニスタンパビリオン",
     "ref": "P35",
     "reservation": "no",
-    "website": "https://www.expo2025.or.jp/official-participant/turkmenistan/"
+    "website": "https://www.expo2025.or.jp/official-participant/turkmenistan/",
+    "wikimedia_commons": "File:EXPO2025 Turkmenistan Pavilion.jpg"
   }
 },
 {
@@ -1430,7 +1434,8 @@
     "name:ja": "中国パビリオン",
     "ref": "P28",
     "reservation": "no",
-    "website": "https://www.expo2025.or.jp/official-participant/china/"
+    "website": "https://www.expo2025.or.jp/official-participant/china/",
+    "wikimedia_commons": "File:Expo 2025 China Pavilion.jpg"
   }
 },
 {
@@ -1949,7 +1954,7 @@
     "ref": "C07",
     "reservation": "no",
     "website": "https://www.expo2025.or.jp/official-participant/azerbaijan/",
-    "wikimedia_commons": "File:アゼルバイジャン パビリオン.jpg"
+    "wikimedia_commons": "File:Expo 2025 Azerbaijan Pavilion 01.JPG"
   }
 },
 {
@@ -2015,7 +2020,7 @@
     "ref": "E05",
     "reservation": "yes",
     "website": "https://www.expo2025.or.jp/domestic-pv/mitsubishi/",
-    "wikimedia_commons": "File:三菱未来館.jpg"
+    "wikimedia_commons": "File:Expo2025 三菱未来館.jpg"
   }
 },
 {
@@ -2108,7 +2113,8 @@
     "name": "フューチャーライフエクスペリエンス",
     "name:en": "Future Life Experience",
     "name:ja": "フューチャーライフエクスペリエンス",
-    "ref": "L02"
+    "ref": "L02",
+    "wikimedia_commons": "File:Expo 2025 Future Life Village 01.JPG"
   }
 },
 {
@@ -2481,7 +2487,7 @@
     "name:ja": "ウーマンズパビリオン",
     "ref": "E09",
     "reservation": "yes",
-    "wikimedia_commons": "File:ウーマンズ パビリオン.jpg"
+    "wikimedia_commons": "File:Expo 2025 Women's Pavilion 01.JPG"
   }
 },
 {
@@ -2544,7 +2550,7 @@
     "name:en": "Shining hat",
     "name:ja": "シャインハット",
     "ref": "E11",
-    "wikimedia_commons": "File:大阪・関西万博 EXPOホール「シャインハット」.jpg"
+    "wikimedia_commons": "File:Expo 2025 EXPO Hall Shining Hat 01.JPG"
   }
 },
 {
@@ -2637,7 +2643,7 @@
     "ref": "E07",
     "reservation": "yes",
     "website": "https://www.expo2025.or.jp/domestic-pv/sumitomo/",
-    "wikimedia_commons": "File:関西万博 住友館.jpg"
+    "wikimedia_commons": "File:Expo 2025 SUMITOMO Pavilion.jpg"
   }
 },
 {
@@ -2835,7 +2841,8 @@
     "name:en": "ORA Gaishoku Pavilion 『～UTAGE～』",
     "name:ja": "ORA外食パビリオン 宴〜UTAGE〜",
     "ref": "W05",
-    "website": "https://www.expo2025.or.jp/domestic-pv/ora/"
+    "website": "https://www.expo2025.or.jp/domestic-pv/ora/",
+    "wikimedia_commons": "File:Expo 2025 ORA Food Service Pavilion 01.JPG"
   }
 },
 {
@@ -2860,7 +2867,8 @@
     "name:ja": "飯田グループホールディングス × 大阪公立大学",
     "ref": "W04",
     "reservation": "recommended",
-    "website": "https://www.expo2025.or.jp/domestic-pv/iida/"
+    "website": "https://www.expo2025.or.jp/domestic-pv/iida/",
+    "wikimedia_commons": "File:Expo 2025 Joint Pavilion Iida Group and Osaka Metropolitan University.JPG"
   }
 },
 {
@@ -2885,7 +2893,8 @@
     "name:ja": "ガスパビリオン おばけワンダーランド",
     "ref": "W03",
     "reservation": "yes",
-    "website": "https://www.expo2025.or.jp/domestic-pv/gas/"
+    "website": "https://www.expo2025.or.jp/domestic-pv/gas/",
+    "wikimedia_commons": "File:Expo 2025 Gas Pavilion 01.JPG"
   }
 },
 {
@@ -2987,7 +2996,7 @@
     "ref": "W07",
     "reservation": "yes",
     "website": "https://www.expo2025.or.jp/domestic-pv/bandai-namco/",
-    "wikimedia_commons": "File:大阪・関西万博 ガンダムパビリオン.jpg"
+    "wikimedia_commons": "File:Expo 2025 GUNDAM NEXT FUTURE PAVILION 01.JPG"
   }
 },
 {
@@ -3044,7 +3053,7 @@
     "ref": "W10",
     "reservation": "recommended",
     "website": "https://www.expo2025.or.jp/domestic-pv/yoshimoto/",
-    "wikimedia_commons": "File:Expo2025-Yoshimoto Pavilion.jpg"
+    "wikimedia_commons": "File:Expo 2025 Yoshimoto Pavilion 01.JPG"
   }
 },
 {
@@ -3090,7 +3099,8 @@
     "name:ja": "未来の都市",
     "ref": "L05",
     "reservation": "yes",
-    "website": "https://www.expo2025-futurecity.jp/"
+    "website": "https://www.expo2025-futurecity.jp/",
+    "wikimedia_commons": "File:Future City pavilion EXPO2025.jpg"
   }
 },
 {
