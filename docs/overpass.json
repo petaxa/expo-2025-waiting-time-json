@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.8 b1080abd",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-14T00:41:02Z",
-    "timestamp_areas_base": "2025-08-13T21:48:06Z",
+    "timestamp_osm_base": "2025-08-15T00:42:09Z",
+    "timestamp_areas_base": "2025-08-14T21:09:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -387,16 +387,6 @@
     "amenity": "theatre",
     "check_date": "2025-05-06",
     "name": "多目的ホール"
-  }
-},
-{
-  "type": "node",
-  "id": 12841015170,
-  "lat": 34.6545364,
-  "lon": 135.3766418,
-  "tags": {
-    "amenity": "exhibition_centre",
-    "name": "ベストプラクティス"
   }
 },
 {
