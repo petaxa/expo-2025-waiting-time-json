@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.8 b1080abd",
   "osm3s": {
-    "timestamp_osm_base": "2025-10-27T00:42:57Z",
-    "timestamp_areas_base": "2025-10-26T18:30:55Z",
+    "timestamp_osm_base": "2025-09-29T00:20:33Z",
+    "timestamp_areas_base": "2025-09-29T00:20:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -519,9 +519,7 @@
   "nodes": [
     12497500436,
     12769799398,
-    13195256948,
     12497500433,
-    13195318190,
     12497500434,
     12769996264,
     12497500435,
@@ -589,7 +587,6 @@
     12769849986,
     12769849987,
     12497500471,
-    12813495363,
     12497500472,
     12497500473
   ],
@@ -643,21 +640,27 @@
   "type": "way",
   "id": 1366032379,
   "center": {
-    "lat": 34.6509688,
-    "lon": 135.3866785
+    "lat": 34.6510083,
+    "lon": 135.3867072
   },
   "nodes": [
     12650395958,
+    12797303422,
     12650395957,
+    12769545773,
+    12797303423,
+    12797303424,
     12650395956,
-    13227862267,
     12650395963,
-    13227862268,
+    13098921886,
+    12769554444,
     12797303420,
     12650395958
   ],
   "tags": {
     "amenity": "exhibition_centre",
+    "building": "yes",
+    "building:levels": "1",
     "check_date": "2025-05-28",
     "name": "関西パビリオン",
     "name:en": "Kansai Pavilion",
@@ -665,6 +668,7 @@
     "name:zh": "关西馆",
     "ref": "E01",
     "reservation": "yes",
+    "roof:colour": "white",
     "website": "https://www.expo2025.or.jp/domestic-pv/kansai-pv/",
     "wikimedia_commons": "File:関西 パビリオン.jpg"
   }
@@ -673,8 +677,8 @@
   "type": "way",
   "id": 1366032390,
   "center": {
-    "lat": 34.6512686,
-    "lon": 135.3847859
+    "lat": 34.6512753,
+    "lon": 135.3847934
   },
   "nodes": [
     12650408218,
@@ -683,7 +687,8 @@
     12650408221,
     12650408220,
     12650408219,
-    12813699740,
+    12797220290,
+    12752334010,
     12650408218
   ],
   "tags": {
@@ -714,7 +719,6 @@
     12768212115,
     12768212113,
     12768212111,
-    13195256946,
     12768212112,
     12768212114,
     12768212116,
@@ -736,7 +740,7 @@
     "name:zh": "共享空间-E",
     "ref": "S17",
     "roof:shape": "flat",
-    "wikimedia_commons": "File:EXPO2025 COMMONS-E.jpg"
+    "wikimedia_commons": "File:大阪・関西万博 コモンズ館E.jpg"
   }
 },
 {
@@ -784,7 +788,7 @@
   "id": 1380586192,
   "center": {
     "lat": 34.6506103,
-    "lon": 135.3879851
+    "lon": 135.3879846
   },
   "nodes": [
     12650395955,
@@ -812,13 +816,12 @@
   "type": "way",
   "id": 1380667436,
   "center": {
-    "lat": 34.6511251,
-    "lon": 135.3845501
+    "lat": 34.6511329,
+    "lon": 135.3845524
   },
   "nodes": [
     12782600945,
     12782600944,
-    13208469636,
     12782600943,
     12782600942,
     13176266670,
@@ -831,8 +834,7 @@
     "name:ja": "デジタルウォレットパーク",
     "ref": "C06",
     "reservation": "no",
-    "website": "https://www.expo2025.or.jp/digitalwallet/",
-    "wikimedia_commons": "File:Expo 2025 Digiral Wallet Park 01.JPG"
+    "website": "https://www.expo2025.or.jp/digitalwallet/"
   }
 },
 {
@@ -870,7 +872,7 @@
   "id": 1381306370,
   "center": {
     "lat": 34.6511001,
-    "lon": 135.3823417
+    "lon": 135.3823425
   },
   "nodes": [
     12787420319,
@@ -931,14 +933,13 @@
   "type": "way",
   "id": 1381316108,
   "center": {
-    "lat": 34.6507470,
-    "lon": 135.3856098
+    "lat": 34.6507442,
+    "lon": 135.3856020
   },
   "nodes": [
     12787555034,
     12787555035,
     12787555036,
-    13227042712,
     12787555037,
     12787555034
   ],
@@ -982,7 +983,7 @@
     "ref": "C10",
     "reservation": "no",
     "website": "https://www.expo2025.or.jp/official-participant/monaco/",
-    "wikimedia_commons": "File:EXPO2025 Principality of Monaco Pavilion.jpg"
+    "wikimedia_commons": "File:モナコ パビリオン.jpg"
   }
 },
 {
@@ -1045,15 +1046,13 @@
   "type": "way",
   "id": 1381316112,
   "center": {
-    "lat": 34.6474801,
-    "lon": 135.3858005
+    "lat": 34.6474802,
+    "lon": 135.3857994
   },
   "nodes": [
     12787555050,
     12787555051,
     12787555052,
-    13208469669,
-    13208469670,
     12787555053,
     12787555054,
     12787555050
@@ -1076,17 +1075,13 @@
   "type": "way",
   "id": 1381316113,
   "center": {
-    "lat": 34.6499209,
-    "lon": 135.3806338
+    "lat": 34.6499187,
+    "lon": 135.3806540
   },
   "nodes": [
     12787555055,
     12787555056,
-    13227285340,
-    13227285341,
-    13227285339,
     12787555059,
-    13227285342,
     12787555057,
     12787555058,
     12787555055
@@ -1164,7 +1159,7 @@
     "reservation": "no",
     "short_name": "ブルガリア館",
     "website": "https://www.expo2025.or.jp/official-participant/bulgaria/",
-    "wikimedia_commons": "File:EXPO2025 Republic of Bulgaria Pavilion.jpg"
+    "wikimedia_commons": "File:大阪・関西万博 ブルガリアパビリオン.jpg"
   }
 },
 {
@@ -1226,7 +1221,7 @@
   "type": "way",
   "id": 1381316118,
   "center": {
-    "lat": 34.6474427,
+    "lat": 34.6474429,
     "lon": 135.3841885
   },
   "nodes": [
@@ -1251,7 +1246,7 @@
     "ref": "P36",
     "reservation": "no",
     "website": "https://thenordics-expoosaka.com/",
-    "wikimedia_commons": "File:EXPO2025 Nordic Pavilion.jpg"
+    "wikimedia_commons": "File:大阪・関西万博 北欧館.jpg"
   }
 },
 {
@@ -1317,8 +1312,8 @@
   "type": "way",
   "id": 1381316121,
   "center": {
-    "lat": 34.6495690,
-    "lon": 135.3808652
+    "lat": 34.6495626,
+    "lon": 135.3808796
   },
   "nodes": [
     12787555091,
@@ -1326,10 +1321,6 @@
     12787555093,
     12787555094,
     12787555095,
-    13227285332,
-    13227285333,
-    13227285336,
-    13227285334,
     12787555091
   ],
   "tags": {
@@ -1344,7 +1335,6 @@
     "reservation": "yes",
     "short_name": "イタリア館",
     "website": "https://www.expo2025.or.jp/official-participant/holysee/",
-    "wikidata": "Q136558211",
     "wikimedia_commons": "File:EXPO 2025 Italy Pavilion.jpg"
   }
 },
@@ -1352,13 +1342,14 @@
   "type": "way",
   "id": 1381316122,
   "center": {
-    "lat": 34.6515158,
-    "lon": 135.3836159
+    "lat": 34.6515175,
+    "lon": 135.3836204
   },
   "nodes": [
     12787555096,
     12787555097,
     12787555098,
+    12805782338,
     12787555099,
     12787555096
   ],
@@ -1409,13 +1400,14 @@
   "type": "way",
   "id": 1381316124,
   "center": {
-    "lat": 34.6508789,
-    "lon": 135.3852613
+    "lat": 34.6508720,
+    "lon": 135.3852293
   },
   "nodes": [
     12787556504,
     12787556505,
     12787556506,
+    12797219208,
     12797220291,
     12797219207,
     12787556507,
@@ -1500,8 +1492,8 @@
   "type": "way",
   "id": 1381316127,
   "center": {
-    "lat": 34.6511719,
-    "lon": 135.3833316
+    "lat": 34.6511721,
+    "lon": 135.3833321
   },
   "nodes": [
     12787556517,
@@ -1509,7 +1501,6 @@
     12787556519,
     12787556520,
     12797220169,
-    13208469583,
     12805782339,
     12787556517
   ],
@@ -1524,7 +1515,7 @@
     "ref": "C12",
     "reservation": "recommended",
     "website": "https://www.expo2025.or.jp/official-participant/thailand/",
-    "wikimedia_commons": "File:EXPO2025 Thailand Pavilion.jpg"
+    "wikimedia_commons": "File:タイ パビリオン.jpg"
   }
 },
 {
@@ -1675,14 +1666,11 @@
   "type": "way",
   "id": 1381316133,
   "center": {
-    "lat": 34.6478696,
-    "lon": 135.3859173
+    "lat": 34.6478680,
+    "lon": 135.3859179
   },
   "nodes": [
     12787556544,
-    13208469802,
-    13208469803,
-    13208469801,
     12787556545,
     12787556546,
     12805782373,
@@ -1818,7 +1806,7 @@
     "ref": "S15",
     "reservation": "no",
     "website": "https://www.expo2025.or.jp/official-participant/oman/",
-    "wikimedia_commons": "File:EXPO2025 Oman Pavilion.jpg"
+    "wikimedia_commons": "File:Expo2025-OmanPavilion.jpg"
   }
 },
 {
@@ -1888,17 +1876,17 @@
   "type": "way",
   "id": 1381316140,
   "center": {
-    "lat": 34.6509108,
-    "lon": 135.3812890
+    "lat": 34.6509071,
+    "lon": 135.3813058
   },
   "nodes": [
+    12787556575,
+    12787556576,
     12787556577,
     12797219605,
     12797219603,
     12797219604,
-    12787556575,
-    12787556576,
-    12787556577
+    12787556575
   ],
   "tags": {
     "alt_name": "ウズベキスタン館",
@@ -1918,7 +1906,7 @@
   "type": "way",
   "id": 1381316141,
   "center": {
-    "lat": 34.6481092,
+    "lat": 34.6481075,
     "lon": 135.3861381
   },
   "nodes": [
@@ -1982,8 +1970,8 @@
   "type": "way",
   "id": 1381316143,
   "center": {
-    "lat": 34.6509513,
-    "lon": 135.3842810
+    "lat": 34.6509510,
+    "lon": 135.3842864
   },
   "nodes": [
     12787556586,
@@ -2041,7 +2029,7 @@
     "ref": "P01",
     "reservation": "no",
     "website": "https://www.expo2025.or.jp/official-participant/ireland/",
-    "wikimedia_commons": "File:EXPO2025-ireland.jpg"
+    "wikimedia_commons": "File:アイルランド パビリオン.jpg"
   }
 },
 {
@@ -2175,7 +2163,7 @@
   "type": "way",
   "id": 1382232122,
   "center": {
-    "lat": 34.6509197,
+    "lat": 34.6509205,
     "lon": 135.3873207
   },
   "nodes": [
@@ -2270,7 +2258,7 @@
     "name:zh": "罗马尼亚馆",
     "ref": "S21",
     "reservation": "no",
-    "wikimedia_commons": "File:EXPO2025 Romania Pavilion.jpg"
+    "wikimedia_commons": "File:大阪・関西万博 ルーマニアパビリオン.jpg"
   }
 },
 {
@@ -2378,8 +2366,7 @@
     "name:ja-Hira": "いのちのあそびばくらげかん",
     "ref": "X03",
     "reservation": "yes",
-    "website": "https://expo2025-kuragepj.com/",
-    "wikimedia_commons": "File:Expo 2025 Future of Life Pavilion 01.JPG"
+    "website": "https://expo2025-kuragepj.com/"
   }
 },
 {
@@ -2400,13 +2387,12 @@
   "tags": {
     "amenity": "exhibition_centre",
     "name": "いのちめぐる冒険",
-    "name:en": "LIVE EARTH JOURNEY",
+    "name:en": "An adventure through life",
     "name:ja": "いのちめぐる冒険",
     "name:ja-Hira": "いのちめぐるぼうけん",
     "ref": "X06",
     "reservation": "yes",
-    "website": "https://shojikawamori.jp/expo2025/",
-    "wikimedia_commons": "File:EXPO2025 LIVE EARTH JOURNEY.jpg"
+    "website": "https://shojikawamori.jp/expo2025/"
   }
 },
 {
@@ -2441,7 +2427,7 @@
   "type": "way",
   "id": 1382805113,
   "center": {
-    "lat": 34.6490969,
+    "lat": 34.6490972,
     "lon": 135.3830708
   },
   "nodes": [
@@ -2494,8 +2480,7 @@
     "opening_hours": "09:00-21:00",
     "ref": "X08",
     "reservation": "recommended",
-    "website": "https://expo2025-inochinoakashi.com/",
-    "wikimedia_commons": "File:Osaka Expo2025 Dialogue Theater - sign of life -.jpg"
+    "website": "https://expo2025-inochinoakashi.com/"
   }
 },
 {
@@ -2522,8 +2507,7 @@
     "name:ja-Hira": "あーすまーと",
     "ref": "X07",
     "reservation": "yes",
-    "website": "https://expo2025earthmart.jp/",
-    "wikimedia_commons": "File:EXPO2025 Earth Mart.jpg"
+    "website": "https://expo2025earthmart.jp/"
   }
 },
 {
@@ -2593,8 +2577,8 @@
   "type": "way",
   "id": 1382815785,
   "center": {
-    "lat": 34.6475342,
-    "lon": 135.3877179
+    "lat": 34.6475330,
+    "lon": 135.3877197
   },
   "nodes": [
     12802712113,
@@ -2602,11 +2586,8 @@
     12802712111,
     12802712110,
     12802712109,
-    13203054903,
     12802712108,
-    13203054905,
     12802712107,
-    13203054904,
     12802712113
   ],
   "tags": {
@@ -2639,23 +2620,19 @@
     "name": "EXPOナショナルデーホール 「レイガーデン」",
     "name:en": "EXPO National Day Hall Ray Garden",
     "name:ja": "EXPOナショナルデーホール 「レイガーデン」",
-    "ref": "E12",
-    "wikimedia_commons": "File:Expo 2025 EXPO National Day Hall Ray Garden 01.JPG"
+    "ref": "E12"
   }
 },
 {
   "type": "way",
   "id": 1382815793,
   "center": {
-    "lat": 34.6492484,
-    "lon": 135.3875102
+    "lat": 34.6492421,
+    "lon": 135.3875071
   },
   "nodes": [
+    12802712164,
     12802712163,
-    13203054845,
-    13203054847,
-    13203054848,
-    13203054849,
     12802712162,
     12802712161,
     12802712160,
@@ -2667,8 +2644,7 @@
     12974231052,
     12802712156,
     12802712155,
-    12802712164,
-    12802712163
+    12802712164
   ],
   "tags": {
     "amenity": "exhibition_centre",
@@ -2679,7 +2655,7 @@
     "ref": "E08",
     "reservation": "yes",
     "website": "https://www.expo2025.or.jp/domestic-pv/electric/",
-    "wikimedia_commons": "File:EXPO2025 Electric Power Pavilion - Eggs of Posibilities.jpg"
+    "wikimedia_commons": "File:大阪・関西万博 電力館「可能性のタマゴたち」.jpg"
   }
 },
 {
@@ -2707,7 +2683,7 @@
     "ref": "E07",
     "reservation": "yes",
     "website": "https://www.expo2025.or.jp/domestic-pv/sumitomo/",
-    "wikimedia_commons": "File:EXPO2025 Sumitomo Pavilion.jpg"
+    "wikimedia_commons": "File:Expo 2025 SUMITOMO Pavilion.jpg"
   }
 },
 {
@@ -2732,10 +2708,8 @@
     "country": "IN",
     "mapillary": "1064838238840658",
     "name": "インドパビリオン",
-    "name:en": "BHARAT",
-    "official_name": "バーラト",
     "ref": "C17",
-    "reservation": "no",
+    "reservation": "recommended",
     "website": "https://www.japanexpo-india.com/",
     "wikimedia_commons": "File:大阪・関西万博 インドパビリオン.jpg"
   }
@@ -2827,8 +2801,7 @@
     "name:ja": "Better Co-Being",
     "ref": "X01",
     "reservation": "yes",
-    "website": "https://co-being.jp/expo2025/",
-    "wikimedia_commons": "File:Osaka Expo2025 Better Co-Being.jpg"
+    "website": "https://co-being.jp/expo2025/"
   }
 },
 {
@@ -3239,8 +3212,7 @@
     "name": "ジュニアSDGsキャンプ",
     "name:ja": "ジュニアSDGsキャンプ",
     "ref": "L07",
-    "reservation": "no",
-    "website": "https://j-lppf3.jp/expojuniorsdgs/"
+    "reservation": "no"
   }
 },
 {
@@ -3270,8 +3242,7 @@
   "tags": {
     "amenity": "exhibition_centre",
     "name": "森になる建築",
-    "website": "https://foresting-architecture.jp/",
-    "wikimedia_commons": "File:Foresting-architecture,Expo2025.jpg"
+    "website": "https://foresting-architecture.jp/"
   }
 },
 {
@@ -3291,8 +3262,7 @@
   "tags": {
     "amenity": "exhibition_centre",
     "name": "万博サウナ 「太陽のつぼみ」",
-    "website": "https://www.taiyo-tsubomi.jp/",
-    "wikimedia_commons": "File:EXPO2025 TAIYO TSUBOMI.jpg"
+    "website": "https://www.taiyo-tsubomi.jp/"
   }
 }
 
