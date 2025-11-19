@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.8 b1080abd",
   "osm3s": {
-    "timestamp_osm_base": "2025-10-23T17:17:14Z",
-    "timestamp_areas_base": "2025-10-23T07:03:00Z",
+    "timestamp_osm_base": "2025-10-27T13:23:43Z",
+    "timestamp_areas_base": "2025-10-26T21:10:58Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1344,6 +1344,7 @@
     "reservation": "yes",
     "short_name": "イタリア館",
     "website": "https://www.expo2025.or.jp/official-participant/holysee/",
+    "wikidata": "Q136558211",
     "wikimedia_commons": "File:EXPO 2025 Italy Pavilion.jpg"
   }
 },
