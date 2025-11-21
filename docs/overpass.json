@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.8 b1080abd",
   "osm3s": {
-    "timestamp_osm_base": "2025-10-30T17:08:15Z",
-    "timestamp_areas_base": "2025-10-27T07:45:01Z",
+    "timestamp_osm_base": "2025-11-21T00:39:43Z",
+    "timestamp_areas_base": "2025-11-20T20:55:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2782,7 +2782,7 @@
   "tags": {
     "alt_name": "住友パビリオン",
     "amenity": "exhibition_centre",
-    "check_date": "2025-05-28",
+    "check_date": "2025-10-31",
     "name": "住友館",
     "name:en": "SUMITOMO Pavilion",
     "name:ja": "住友館",
@@ -2791,7 +2791,8 @@
     "reservation": "yes",
     "website": "https://www.expo2025.or.jp/domestic-pv/sumitomo/",
     "wikidata": "Q136565304",
-    "wikimedia_commons": "File:EXPO2025 Sumitomo Pavilion.jpg"
+    "wikimedia_commons": "File:EXPO2025 Sumitomo Pavilion.jpg",
+    "wikipedia": "ja:住友館"
   }
 },
 {
